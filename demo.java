@@ -7,4 +7,8 @@ public class Main {
     private int add(int a, int b){
         return a + b;
     }
+
+    private int minus(int a, int b){
+        return a - b;
+    }
 }
