@@ -7,4 +7,8 @@ class HelloGit {
     private int add(int a, int b){
         return a + b;
     }
+
+    private  void print(int x){
+        System.out.println(x);
+    }
 }
